@@ -4,7 +4,6 @@
  
 Notre projet en ARE24 - Dynamic dans lequel nous allons implanter un systeme de bouchons
 
-
 ## Présentation de l'équipe
 
 
